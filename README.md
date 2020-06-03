@@ -40,3 +40,11 @@ Day 1
     - prior to this is there is a function in app.js that awaits the api data, and when the data comes it updates the props
     - mmm now this is mostly materialise,
     - not that familiar with this so... some other time i guess
+---
+Day 2
+
+- api
+
+- react chart
+
+- start on country picker
